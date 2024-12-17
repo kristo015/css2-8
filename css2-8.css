@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mtavari_div {
+    width: 1, 604px;
+    margin-top: 64px;
+    margin-right: 158px;
+    margin-left: 158px;
+    margin-bottom: 268px;
+    border: 96px solid #ffaeaf;
+}
+
+.satauri {
+    width: 100%;
+    margin-bottom: 96px;
+}
+
+.blog {
+    color: #ed00a6;
+    width: 100%;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+h1 {
+    width: 100%;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #181d27;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+.info {
+    width: 100%;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #535862;
+}
+
+.img {
+    width: 1, 280px;
+}
+
+.people {
+    width: 500px;
+    height: 362px;
+    border-radius: 16px;
+    margin-right: 580px;
+    margin-left: 66px;
+    margin-bottom: 96px;
+}
+
+.compiuter {
+    width: 500px;
+    height: 362px;
+    border-radius: 16px;
+    margin-left: 480px;
+    margin-right: 66px;
+    margin-bottom: 96px;
+}
+
+.cube {
+    width: 492px;
+    height: 362px;
+    border-radius: 16px;
+    margin-left: 66px;
+    margin-right: 588;
+    margin-bottom: 96px;
+}
